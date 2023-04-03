@@ -2,7 +2,7 @@
 
 using namespace std;
 
-struct Mahasiswa  {
+struct Mahasiswa{
 	string nim;
 	string nama;
 	string alamat;
@@ -37,5 +37,3 @@ int main()
 	cout << "\nalamat: " << mhs2.alamat;
 	cout << "\numur : " << mhs2.umur;
 }
-
-
