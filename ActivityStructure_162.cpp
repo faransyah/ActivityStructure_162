@@ -15,7 +15,5 @@ int main()
 	mhs1.nim = "20220140162";
 	mhs1.nama = "Tasya";
 	mhs1.alamat = "Semarang";
-	
-	
-
+	mhs1.umur = 20;
 }
